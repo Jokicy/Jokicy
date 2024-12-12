@@ -35,16 +35,15 @@
 
 <!-- ########################################## 分割 ########################################## -->
 #  🙋 Hello
-<div align="center" width="100%">
-  <table width="100%">
-  <tr><td>
-  
-  ### 🤺 About Me
-  
-  <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
-  
-  </td></tr>
-  </table>
+<div style="text-align: center;">
+    <table style="width: 100%;">
+        <tr>
+            <td style="text-align: left;">
+                <h3>🤺 About Me</h3>
+                <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
+            </td>
+        </tr>
+    </table>
 </div>
 
 
