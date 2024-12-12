@@ -41,10 +41,10 @@
   
   ### 🤺 About Me
   
-  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/jobs.png" />
+  <img align="right" width="88"/>
   
   <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
-  <p>&emsp;&emsp;<strong>  </strong></p>
+  <p>&emsp;&emsp;<strong>                                                                                                                </strong></p>
   
   </td></tr>
   </table>
