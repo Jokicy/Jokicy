@@ -28,7 +28,7 @@
   
   <!-- Tech Stack -->
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,linux,vscode,py,cpp,matlab,r,julia,latex,html,javascript,lua,raspberrypi"/> </br>
+    <img src="https://skillicons.dev/icons?i=github,py,html,matlab,autocad,ai,pr,ps,notion,cloudflare"/> </br>
   </div>
 </div>
 
