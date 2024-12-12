@@ -39,9 +39,9 @@
     <table style="width: 100%;">
         <tr>
             <td style="text-align: left;">
-                <h3>🤺 About Me</h3>
-                <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
+                <h3>🤺 About Me</h3> 
             </td>
+            <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
         </tr>
     </table>
 </div>
