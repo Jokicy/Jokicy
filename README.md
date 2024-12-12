@@ -38,9 +38,12 @@
 ### 🤺 About Me
 
 <div style="width: 100%;">
-    <table style="width: 100%; border-collapse: collapse;">
+    <table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
         <tr>
-           我叫Jokic,是一个苦逼的材料研究生。
+            <td>
+                <h3>🤺 About Me</h3>
+                <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
+            </td>
         </tr>
     </table>
 </div>
