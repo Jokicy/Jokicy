@@ -43,7 +43,7 @@
   
   <img align="center" width="88" length="100%" />
   
-  <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。\n</p>
+  <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。/n</p>
   
   </td></tr>
   </table>
