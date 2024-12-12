@@ -35,17 +35,18 @@
 
 <!-- ########################################## 分割 ########################################## -->
 #  🙋 Hello
-### 🤺 About Me
-
-<div style="width: 100%; overflow-x: auto; border: 1px solid black;">
-|  |
-| ---- |
-| <h3>🤺 About Me</h3> <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p> |
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<div align="center">
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/gif/hr.gif" />
+<div>
+  <table>
+  <tr><td>
   
+  ### 🤺 About Me
+  
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/jobs.png" />
+  
+  <p>&emsp;&emsp;嗨，你好，我是Jokic。是个苦逼的材料研究生。</p>
+  <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+  
+  </td></tr>
+  </table>
 </div>
 
