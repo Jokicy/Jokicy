@@ -44,7 +44,7 @@
   <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/jobs.png" />
   
   <p>&emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。</p>
-  <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+  <p>&emsp;&emsp;<strong>  </strong></p>
   
   </td></tr>
   </table>
