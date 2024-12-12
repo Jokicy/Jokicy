@@ -37,12 +37,12 @@
 #  🙋 Hello
 ### 🤺 About Me
 
-<div style="text-align: center;">
-
-| 描述 |
-| ---- |
-| &emsp;&emsp;嗨，你好，我是Jokic，是个苦逼的材料研究生。 |
-
+<div style="width: 100%;">
+    <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+           我叫Jokic,是一个苦逼的材料研究生。
+        </tr>
+    </table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
