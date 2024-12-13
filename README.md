@@ -41,7 +41,7 @@
   
   ### 🤺 About Me
   
-  <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/jobs.png" />
+  <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/CandyDream6/jsdelivr/github/image/jobs.png" />
   
   <p>&emsp;&emsp;嗨，你好，我是Jokic。是个苦逼的材料研究生。</p>
   <p>&emsp;&emsp;本人只有基础的编程能力，最擅长Ctrl+C; Ctrl+V 和简单修改。</p>
